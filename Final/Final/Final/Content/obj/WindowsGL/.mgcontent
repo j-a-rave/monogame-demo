@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/font.spritefont</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/genericLife.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/basicship.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/basicBase.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/basicShot.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/aFace.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/stars.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/stars2.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/bigstar.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/smallStars.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/blankShip.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/smallStars2.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/cautiontape.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/splode.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/bigsplode.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/asteroid.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/asteroid2.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/cautiontapevert.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/mmBase.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/mmFrame.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/mmShip.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/mainmenu.png</File>
+    <File>C:/Users/Jacob/gp3/Jacob.Rave/Final/Final/Final/Content/shipLife.png</File>
+  </SourceFiles>
+</SourceFileCollection>
